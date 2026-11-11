@@ -1,0 +1,6 @@
+{
+  "name": "Indanganyandiko",
+  "description": "Universal Correspondence, Records & Customer Care Management System. Multi-organisation enterprise platform for official correspondence, document archiving, workflow approvals, and citizen/customer care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
